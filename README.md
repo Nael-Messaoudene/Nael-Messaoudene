@@ -8,15 +8,6 @@ Naël Messaoudene, french freelance creative developer. Graduated from @Gobelins
 
 You can check my works on my [portfolio](https://www.naelmessaoudene.com/)
 
-#### 🧪 LAB
-
-I'm currently in the process of setting up a lab to centralise all my experiments. 
-
-Stairs xp: https://stairs-xp.vercel.app/
-
-
-Other experiments are currently being developed.
-
 
 ## Want to talk ?
 
