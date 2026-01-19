@@ -2,11 +2,7 @@
 
 ## Presentation
 
-Naël Messaoudene, french freelance creative developer. Graduated from @Gobelins, previously at [Pistil Studio](https://pistil-studio.fr/)
-
-## 🔨 Works
-
-You can check my works on my [portfolio](https://www.naelmessaoudene.com/)
+Naël Messaoudene, french freelance fullstack developer.
 
 
 ## Want to talk ?
